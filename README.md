@@ -137,12 +137,7 @@ sms-bombing 136xxxxxxxx -l 2
 
 Please see [CHANGELOG](./CHANGELOG.md) for more information on what has changed recently.
 
-# 捐赠
 
-如果此项目对您有帮助，还希望您捐赠支持，让我能好好的一直坚持下去。金额不在于多少，一份心意就好！在此感谢所有的捐赠者，你们的鼓励是我最大的动力！
-
-<div style="background:#e3e3e3; color:#FFF" align=center >
-<img width="220" height="300" src="https://cdn.jsdelivr.net/gh/xiaoxuan6/static/images/202212102216540.png"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="200" height="300" src="https://cdn.jsdelivr.net/gh/xiaoxuan6/static/images/202212102216435.jpg"/></div>
 
 # Stargazers over time
 [![Stargazers over time](https://starchart.cc/xiaoxuan6/SMSBombing.svg?variant=adaptive)](https://starchart.cc/xiaoxuan6/SMSBombing)
